@@ -1,4 +1,4 @@
-# Hey there, I'm **andr515i** 👋
+# Hey there 👋
 
 Welcome to my GitHub profile! This space is mainly dedicated to my school years and serves as a hub for my personal projects and coding experiments. Please note that while you'll see several repositories here, **not all my code is public** due to security and privacy reasons. So, if it seems like my public work doesn’t tell the whole story, that’s why!
 
