@@ -7,7 +7,7 @@ Welcome to my GitHub profile! This space is mainly dedicated to my school years 
 ## 🚀 What I'm Up To
 
 - **Languages & Frameworks:**  
-  - Although most of my projects are websites (HTML, CSS, JavaScript, etc.), I actually prefer working on **anything other than websites**.
+  - Although a big number of my projects are websites (HTML, CSS, JavaScript, etc.), I actually prefer working on **anything other than websites**.
   - I'm diving into **Rust** 🦀 lately and having a blast learning it.
   - **Flutter** has become my favorite since I picked it up last year—its power and flexibility have won me over! 💙
 
