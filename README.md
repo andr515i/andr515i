@@ -7,7 +7,7 @@ Welcome to my GitHub profile! This space is mainly dedicated to my school years 
 ## 🚀 What I'm Up To
 
 - **Languages & Frameworks:**  
-  - Although a big number of my projects are websites (Angular, TypeScript), I actually prefer working on **anything other than websites**.
+  - Although a big number of my projects are websites (Angular, TypeScript, HTML), I actually prefer working on **anything other than websites**.
   - I'm diving into **Rust** 🦀 lately and having a blast learning it.
   - **Flutter** has become my favorite since I picked it up in 2024—its power and flexibility have won me over! 💙
 
@@ -18,9 +18,11 @@ Welcome to my GitHub profile! This space is mainly dedicated to my school years 
 
 ## 📊 My GitHub Stats
 
-Check out my GitHub Trends below, which highlights my primary coding languages and other stats:
+Check out my GitHub Stats below, which highlights my primary coding languages and other stats:
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/andr515i/langs?width=800)]([https://githubtrends.io](https://github.com/andr515i))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andr515i&theme=radical)](https://github.com/andr515i)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andr515i&hide=cmake,c%2B%2B&theme=radical)](https://github.com/andr515i)
 
 ---
 
@@ -28,9 +30,6 @@ Check out my GitHub Trends below, which highlights my primary coding languages a
 
 - **Privacy:**  
   I try to keep my projects as transparent as possible, but for security reasons, some repositories remain private.
-
-  I'm always looking to improve my profile. If you have suggestions or need more information, just drop me a message or open an issue!
-
 ---
 
 Happy coding! 😄
