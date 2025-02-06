@@ -20,7 +20,7 @@ Welcome to my GitHub profile! This space is mainly dedicated to my school years 
 
 Check out my GitHub Trends below, which highlights my primary coding languages and other stats:
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/andr515i/langs?width=800)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/andr515i/langs?width=800)]([https://githubtrends.io](https://github.com/andr515i))
 
 ---
 
