@@ -9,7 +9,7 @@ Welcome to my GitHub profile! This space is mainly dedicated to my school years 
 - **Languages & Frameworks:**  
   - Although a big number of my projects are websites (Angular, TypeScript, HTML), I actually prefer working on **anything other than websites**.
   - I'm diving into **Rust** 🦀 lately and having a blast learning it.
-  - **Flutter** has become my favorite since I picked it up in 2024—its power and flexibility have won me over! 💙
+  - **Flutter** has become one of my favorites since I picked it up in 2024—its power and flexibility have won me over! 💙
 
 - **Projects:**  
   I have a mix of school-related projects, personal explorations, and experiments. While many projects are public, some are kept private to safeguard sensitive information.
